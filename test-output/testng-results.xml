@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16760" started-at="2023-08-23T11:33:57 IST" finished-at="2023-08-23T11:34:14 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16760" started-at="2023-08-23T11:33:57 IST" finished-at="2023-08-23T11:34:14 IST">
+      <class name="API_testcase.TestUser">
+        <test-method status="PASS" signature="generateData()[pri:0, instance:API_testcase.TestUser@72b6cbcc]" name="generateData" is-config="true" duration-ms="516" started-at="2023-08-23T11:33:57 IST" finished-at="2023-08-23T11:33:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateData -->
+        <test-method status="PASS" signature="testcreateUser()[pri:1, instance:API_testcase.TestUser@72b6cbcc]" name="testcreateUser" duration-ms="8230" started-at="2023-08-23T11:33:58 IST" finished-at="2023-08-23T11:34:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcreateUser -->
+        <test-method status="PASS" signature="testGetUser()[pri:2, instance:API_testcase.TestUser@72b6cbcc]" name="testGetUser" duration-ms="2385" started-at="2023-08-23T11:34:06 IST" finished-at="2023-08-23T11:34:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUser -->
+        <test-method status="PASS" signature="testputUser()[pri:3, instance:API_testcase.TestUser@72b6cbcc]" name="testputUser" duration-ms="3828" started-at="2023-08-23T11:34:08 IST" finished-at="2023-08-23T11:34:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testputUser -->
+        <test-method status="PASS" signature="testDeleteUser()[pri:4, instance:API_testcase.TestUser@72b6cbcc]" name="testDeleteUser" duration-ms="1646" started-at="2023-08-23T11:34:12 IST" finished-at="2023-08-23T11:34:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUser -->
+      </class> <!-- API_testcase.TestUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
